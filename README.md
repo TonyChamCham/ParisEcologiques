@@ -20,8 +20,9 @@ Données organisées par étapes de traitement :
 - **01 - Habitat** : Logements et espaces verts
 - **02 - Transport** : Mobilité urbaine
 - **03 - Population** : Données démographiques
-- **04 - Air Quality** : Qualité de l'air
-- **05 - Energie** : Consommation et production
+- **04 - Energie** : Consommation et production
+- **05 - Air Quality** : Qualité de l'air
+
 
 ### 02 - Analytics
 Notebooks et scripts d'analyse
