@@ -3,5 +3,6 @@
     "Paris Data" : "https://opendata.paris.fr/",
     "Statistiques Developpement Durable" : "https://www.statistiques.developpement-durable.gouv.fr/catalogue",
     "Data Gouv Fr" : "https://www.data.gouv.fr/fr/",
-    "Insee" : "https://www.insee.fr/fr/statistiques?categorie=1"
+    "Insee" : "https://www.insee.fr/fr/statistiques?categorie=1",
+    "ODRE - OpenData Reseaux-Energies" : "https://odre.opendatasoft.com/"
 }
