@@ -4,5 +4,9 @@
     "Statistiques Developpement Durable" : "https://www.statistiques.developpement-durable.gouv.fr/catalogue",
     "Data Gouv Fr" : "https://www.data.gouv.fr/fr/",
     "Insee" : "https://www.insee.fr/fr/statistiques?categorie=1",
-    "ODRE - OpenData Reseaux-Energies" : "https://odre.opendatasoft.com/"
+    "ODRE - OpenData Reseaux-Energies" : "https://odre.opendatasoft.com/",
+    "RATP" : "https://www.ratp.fr/",
+    "Ile-de-France mobilités" : "https://www.iledefrance-mobilites.fr/",
+    "Wikipedia" : "https://fr.wikipedia.org/wiki/R%C3%A9seau_de_bus_RATP",
+    "TC Infos" : "https://tc-infos.fr/reseau/45"
 }
